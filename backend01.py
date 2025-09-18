@@ -147,3 +147,17 @@ print(config)
 print("Chaves", config.keys())
 print("valores", config.values())
 print("Itens", config.items())
+
+
+
+#######Exercicios########################
+
+
+def primeiraFuncao(txt):
+    return txt.upper()
+
+print(primeiraFuncao(nome))
+
+print("######################Revi~sao Tupla############################################")
+
+def segundaFuncao 
