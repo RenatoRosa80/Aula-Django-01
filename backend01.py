@@ -160,4 +160,12 @@ print(primeiraFuncao(nome))
 
 print("######################Revi~sao Tupla############################################")
 
-def segundaFuncao 
+def segundaFuncao (txt):
+    lista = []
+    
+    
+
+valor = (input("O que deseja inserir na lista? "))
+lista = (valor)
+print(segundaFuncao)
+        
